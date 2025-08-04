@@ -1,3 +1,4 @@
+// MVP v0.1 - Toast notification hook for crypto dashboard
 import * as React from "react"
 
 import type {

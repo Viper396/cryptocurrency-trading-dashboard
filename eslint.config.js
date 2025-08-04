@@ -1,3 +1,4 @@
+// MVP v0.1 - ESLint configuration for crypto dashboard
 import js from "@eslint/js";
 import globals from "globals";
 import reactHooks from "eslint-plugin-react-hooks";

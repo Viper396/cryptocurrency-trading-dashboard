@@ -1,3 +1,4 @@
+// MVP v0.1 - Tailwind config for crypto dashboard theme
 import type { Config } from "tailwindcss";
 
 export default {

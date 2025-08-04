@@ -1,3 +1,4 @@
+// MVP v0.1 - Vite configuration for crypto dashboard
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react-swc";
 import path from "path";
