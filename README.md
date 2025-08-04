@@ -1,5 +1,9 @@
 # 📊 Crypto Dashboard
 
+![Crypto Dashboard](./public/crypto-dashboard-hero.png)
+
+**🔗 [Live Demo](https://your-app-name.lovable.app)** | **📱 [Try it now](https://your-app-name.lovable.app)**
+
 A modern, real-time cryptocurrency dashboard built with React and TypeScript. Track market trends, monitor your favorite cryptocurrencies, and stay updated with the latest market data through an elegant glassmorphic interface.
 
 ## ✨ Features
