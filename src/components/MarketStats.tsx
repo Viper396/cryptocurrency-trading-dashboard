@@ -1,3 +1,8 @@
+/**
+ * MarketStats Component - MVP v0.1
+ * Displays key cryptocurrency market metrics in glassmorphic cards
+ * Features: Market cap, 24h volume, BTC dominance with trend indicators
+ */
 import { ArrowUpIcon, ArrowDownIcon, TrendingUpIcon } from "lucide-react";
 
 const MarketStats = () => {

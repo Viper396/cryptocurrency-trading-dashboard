@@ -1,3 +1,8 @@
+/**
+ * CryptoList Component - MVP v0.1
+ * Table displaying top 5 cryptocurrencies with real-time data
+ * Features: Live prices, 24h changes, volume data, auto-refresh every 30 seconds
+ */
 import { ArrowUpIcon, ArrowDownIcon } from "lucide-react";
 import { useQuery } from "@tanstack/react-query";
 

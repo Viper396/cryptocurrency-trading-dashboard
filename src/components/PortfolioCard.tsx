@@ -1,3 +1,8 @@
+/**
+ * PortfolioCard Component - MVP v0.1
+ * Bitcoin performance chart with 6-month historical data
+ * Features: Responsive line chart, real-time data from CoinGecko API, smooth animations
+ */
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer, Tooltip } from "recharts";
 import { useQuery } from "@tanstack/react-query";
 

@@ -1,3 +1,8 @@
+/**
+ * CryptoChart Component - MVP v0.1
+ * Interactive TradingView widget for Bitcoin price analysis
+ * Features: Real-time data, adjustable timeframes, symbol switching, dark theme
+ */
 import TradingViewWidget from 'react-tradingview-widget';
 
 const CryptoChart = () => {

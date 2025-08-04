@@ -1,3 +1,8 @@
+/**
+ * Crypto Dashboard MVP v0.1 - Main Dashboard Page
+ * Displays real-time cryptocurrency data with interactive charts
+ * Features: Market stats, TradingView charts, portfolio tracking, and top crypto list
+ */
 import MarketStats from "@/components/MarketStats";
 import CryptoChart from "@/components/CryptoChart";
 import PortfolioCard from "@/components/PortfolioCard";
